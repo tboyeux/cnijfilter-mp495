@@ -12,7 +12,7 @@ license=('custom')
 url='https://www.canon.co.uk/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_mp_series/pixma_mp495.aspx'
 depends=('popt' 'libpng12' 'libusb-compat' 'libtiff4' 'libxml2'  'cups' 'ghostscript')
 conflicts=('cnijfilter-common')
-source=('http://files.canon-europe.com/files/soft40269/Software/MP495series_printer_driver.tar'
+source=('https://files.canon-europe.com/files/soft40269/Software/MP495series_printer_driver.tar'
                'cnijfilter-mp495-x86_64.license' 
                 'cnijfilter-mp495-x86_64.install' )
 sha256sums=( '3868f50a15bc17df701f34a80c873b4118979dc654a9a6ef5e0d7d44632a6d7f'
